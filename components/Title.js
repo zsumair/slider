@@ -8,8 +8,8 @@ function Title() {
           This is a title declaration section for main highlights of the site
         </h2>
         <p className="text-xs md:text-xl mb-6 md:mb-14 py-4 font-semibold text-gray-500 dark:text-zinc-300">
-          A description or a subset section of the title declaration describing
-          briefly about the content or highlighted section.
+          Remove this title by commenting it out in the index.js or place it as
+          you like anywhere on the pages
         </p>
       </div>
     </div>
