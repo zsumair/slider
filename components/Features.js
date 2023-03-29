@@ -11,7 +11,7 @@ function Features() {
         This is just featurette his is just featurette his is just featurette
         his is just featurette
       </p>
-      <div class="lg:grid grid-cols-3 gap-6">
+      <div className="lg:grid grid-cols-3 gap-6">
         <div className="card bg-base-100 shadow-xl mt-5">
           <div className="card-body">
             <h2 className="card-title p-3 text-2xl font-bold">Title</h2>

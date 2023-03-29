@@ -4,8 +4,8 @@ function FAQ() {
   return (
     <div className="py-5">
       <div className="md:3/4 py-5">
-        <div class="text-center">
-          <h2 class="text-xl md:text-3xl mb-2 font-extrabold font-sans dark:text-zinc-300">
+        <div className="text-center">
+          <h2 className="text-xl md:text-3xl mb-2 font-extrabold font-sans dark:text-zinc-300">
             Frequently asked questions
           </h2>
         </div>

@@ -6,8 +6,8 @@ function about() {
     <Layout>
       <Hero />
       <div className=" md:3/4 py-5">
-        <div class="text-center">
-          <h2 class="text-xl md:text-3xl mb-4 font-extrabold font-sans dark:text-zinc-300">
+        <div className="text-center">
+          <h2 className="text-xl md:text-3xl mb-4 font-extrabold font-sans dark:text-zinc-300">
             This is just an about page
           </h2>
         </div>
